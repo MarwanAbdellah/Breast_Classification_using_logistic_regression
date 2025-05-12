@@ -33,7 +33,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn plotly joblib
 
 - Data preprocessing (handling missing values, scaling, and normalization)
 - Exploratory Data Analysis (EDA) using Matplotlib, Seaborn, and Plotly
-- Model training with Logistic Regression
+- Model training with Logistic Regression, Support Vector Classifier (SVC), Random Forest, XGBClassifier, DecisionTreeClassifier, Naive Bayes Gaussian, KNeighborsClassifier
 - Performance evaluation using accuracy score, confusion matrix, and classification report
 - Model persistence using `joblib`
 
